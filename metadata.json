@@ -1,0 +1,6 @@
+{
+  "name": "儿童乘除法口算",
+  "description": "专为一二年级小朋友设计的乘除法趣味口算练习，支持可视化物品辅助、分级进阶、自定义题数、大数字键输入与萌宠星级奖励。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
